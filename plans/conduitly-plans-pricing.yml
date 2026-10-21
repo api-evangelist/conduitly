@@ -1,0 +1,46 @@
+generated: '2026-10-20'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.conduitly.com/pricingplans/
+sources:
+- https://www.conduitly.com/pricingplans/
+- https://help.conduitly.com/article/25-billing-invoices-and-payment-methods
+- https://help.conduitly.com/article/26-annual-vs-monthly-billing
+- https://help.conduitly.com/article/23-understanding-your-plan-and-task-limits
+name: Conduitly pricing
+audience: business-product
+pricing_basis: per-seat
+plans:
+- name: Individual
+  price_text: $24.99
+  price: 24.99
+  billing_period: monthly
+- name: Pro
+  price_text: $69.99
+  price: 69.99
+  billing_period: monthly
+- name: Team
+  price_text: $89.99
+  price: 89.99
+  billing_period: monthly
+- name: Business
+  price_text: $799.99
+  price: 799.99
+  billing_period: monthly
+- name: Individual
+  price_text: $249.90
+  price: 249.9
+  billing_period: yearly
+- name: Pro
+  price_text: $699.90
+  price: 699.9
+  billing_period: yearly
+- name: Team
+  price_text: $899.90
+  price: 899.9
+  billing_period: yearly
+- name: Business
+  price_text: $7999.90
+  price: 7999.9
+  billing_period: yearly
+docs: https://www.conduitly.com/pricingplans/

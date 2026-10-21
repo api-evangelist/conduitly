@@ -1,0 +1,16 @@
+generated: '2026-10-20'
+method: none
+source:
+- https://zapier.com/apps/conduitly/integrations
+- https://n8n.io/integrations/conduitly/
+- https://composio.dev/toolkits/conduitly
+- https://monid.ai/tools/conduitly
+checked:
+- https://composio.dev/toolkits/conduitly
+- https://monid.ai/tools/conduitly
+- https://n8n.io/integrations/conduitly/
+- https://zapier.com/apps/conduitly/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

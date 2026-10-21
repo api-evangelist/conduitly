@@ -1,0 +1,14 @@
+generated: '2026-10-20'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.conduitly.com/privacy-policy/
+sources:
+- https://www.conduitly.com/privacy-policy/
+standards:
+- id: gdpr
+  conforms: true
+  evidence: Legal Basis for Processing Personal Data under the General Data Protection Regulation (GDPR)
+- id: ccpa
+  conforms: true
+  evidence: Your Rights Under the CCPA
+docs: https://www.conduitly.com/privacy-policy/
